@@ -1,3 +1,19 @@
+<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+
+###
+
+<p align="left">My name is Gabriel Ferreira and I am a Software Engineer, from Bh, Brazil.</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">I am a Computer Science student at PUC MINAS</p>
+
+###
+
 <h2 align="left">My Techs</h2>
 
 ###
@@ -37,10 +53,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&radius=16&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ferreira502/Ferreira502/output/snake.svg" alt="Snake animation" />
 
 ###
 
