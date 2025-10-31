@@ -79,5 +79,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ferreira502.ferreira502&"  />
 </div>
-
-melhore meu README pro meu github, coloque um gif de uma paisagem
