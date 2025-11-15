@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ROXO ===================== -->
 
 <p align="center">
-  <img src="[https://svg-banners.vercel.app/api?type=wave&text1=Gabriel%20Ferreira&text2=Software%20Engineer&width=1200&height=250&color1=1A001F&color2=4B0082](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F694328467529746199%2F&psig=AOvVaw1fyCAd2BR885FwxVDhAyL4&ust=1763308942136000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDFzuvD9JADFQAAAAAdAAAAABAM)" />
+  <img src="https://i.pinimg.com/originals/d6/3e/b4/d63eb49f6baa655bf1e7aa54a1761db5.gif" />
 </p>
 
 <!-- ============ TEXTO ANIMADO (COR ROXO #4B0082) ============ -->
