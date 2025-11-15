@@ -74,8 +74,9 @@
 <br>
 
 <div align="center">
-  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&theme=high-contrast&area=true&hide_border=false" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&theme=dracula&bg_color=000000&color=ffffff&line=9b4dff&point=9b4dff&area=true&hide_border=false" />
 </div>
+
 
 
 <!-- ===================== CONTACT ===================== -->
