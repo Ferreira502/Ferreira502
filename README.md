@@ -63,18 +63,30 @@
 
 ## <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ferreira502&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira502&layout=compact&langs_count=8&theme=highcontrast&hide_border=false" />
-</div>
+## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Ferreira502&theme=highcontrast&hide_border=false" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=Ferreira502&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=4B0082&text_color=ffffff&icon_color=4B0082&border_color=4B0082" />
+  
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira502&layout=compact&langs_count=8&theme=dracula&title_color=4B0082&text_color=ffffff&icon_color=4B0082&border_color=4B0082" />
 </div>
 
+<br>
+
 <div align="center">
-  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&theme=high-contrast&area=true&hide_border=false" />
+  <img height="170" 
+       src="https://streak-stats.demolab.com?user=Ferreira502&theme=dracula&background=000000&ring=4B0082&fire=4B0082&currStreakLabel=4B0082&border=4B0082" />
 </div>
+
+<br>
+
+<div align="center">
+  <img height="300" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&theme=dracula&bg_color=000000&color=ffffff&line=4B0082&point=4B0082&area=true&hide_border=false" />
+</div>
+
 
 ---
 
