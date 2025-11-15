@@ -9,7 +9,7 @@
 ---
 
 
-<p align="center">
+<p>
 Olá! Meu nome é Gabriel Ferreira e sou Engenheiro de Software apaixonado por tecnologia e desenvolvimento de sistemas.
 Atualmente curso Ciência da Computação na PUC Minas, onde aprofundo meus conhecimentos em algoritmos, arquitetura de software e engenharia de projetos.
 
