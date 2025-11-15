@@ -1,20 +1,35 @@
+<!-- ===================== BANNER ===================== -->
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Gabriel%20Ferreira&text2=Software%20Engineer" width="100%" />
+</p>
+
+<!-- ============ TEXTO ANIMADO (COR ROXO #4B0082) ============ -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel;Sou+engenheiro+de+software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=4B0082&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel;Sou+engenheiro+de+software" />
 </h1>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
 
-Hi! I'm **Gabriel Ferreira**, a Software Engineer from **Brazil (BH)**.  
-Currently, I am a **Computer Science student at PUC Minas**, focused on building modern, clean, and scalable software solutions.
+## <h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Hi! I'm <strong>Gabriel Ferreira</strong>, a Software Engineer from <strong>Brazil (BH)</strong>.<br/>
+Currently, I am a <strong>Computer Science student at PUC Minas</strong>, passionate about building modern, clean and scalable solutions.
+</p>
 
 ---
 
-## 🧠 Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-### 🔹 Programming Languages
-<p>
+## <h2 align="center">🧠 Tech Stack</h2>
+
+### <h3 align="center">🔹 Programming Languages</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,35 +37,40 @@ Currently, I am a **Computer Science student at PUC Minas**, focused on building
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🌐 Web Development
-<p>
+### <h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Databases
-<p>
+### <h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems
-<p>
+### <h3 align="center">🖥️ Operating Systems</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== STATS ===================== -->
+
+## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ferreira502&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira502&layout=compact&langs_count=8&theme=highcontrast&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ferreira502&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira502&layout=compact&langs_count=8&theme=highcontrast&hide_border=false" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Ferreira502&theme=highcontrast&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Ferreira502&theme=highcontrast&hide_border=false" />
 </div>
 
 <div align="center">
@@ -59,9 +79,11 @@ Currently, I am a **Computer Science student at PUC Minas**, focused on building
 
 ---
 
-## 📞 Contact Me
+<!-- ===================== CONTACT ===================== -->
 
-<p align="left">
+## <h2 align="center">📞 Contact Me</h2>
+
+<p align="center">
   <a href="https://wa.me/31972471784?text=Oi%3F%20Tudo%20Bem!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -77,6 +99,9 @@ Currently, I am a **Computer Science student at PUC Minas**, focused on building
 
 ---
 
+<!-- ===================== VISITOR ===================== -->
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ferreira502" />
 </div>
+
