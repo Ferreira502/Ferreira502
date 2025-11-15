@@ -1,7 +1,7 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== BANNER ROXO ===================== -->
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Gabriel%20Ferreira&text2=Software%20Engineer" width="100%" />
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Gabriel%20Ferreira&text2=Software%20Engineer&width=1200&height=250&color1=1A001F&color2=4B0082" />
 </p>
 
 <!-- ============ TEXTO ANIMADO (COR ROXO #4B0082) ============ -->
@@ -104,4 +104,3 @@ Currently, I am a <strong>Computer Science student at PUC Minas</strong>, passio
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ferreira502" />
 </div>
-
