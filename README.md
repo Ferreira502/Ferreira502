@@ -1,10 +1,6 @@
-<!-- ===================== BANNER ROXO ===================== -->
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/d6/3e/b4/d63eb49f6baa655bf1e7aa54a1761db5.gif" />
 </p>
-
-<!-- ============ TEXTO ANIMADO (COR ROXO #4B0082) ============ -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=4B0082&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel;Sou+engenheiro+de+software" />
@@ -12,13 +8,16 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
-## <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Hi! I'm <strong>Gabriel Ferreira</strong>, a Software Engineer from <strong>Brazil (BH)</strong>.<br/>
-Currently, I am a <strong>Computer Science student at PUC Minas</strong>, passionate about building modern, clean and scalable solutions.
+Olá! Meu nome é Gabriel Ferreira e sou Engenheiro de Software apaixonado por tecnologia e desenvolvimento de sistemas.
+Atualmente curso Ciência da Computação na PUC Minas, onde aprofundo meus conhecimentos em algoritmos, arquitetura de software e engenharia de projetos.
+
+Gosto de criar soluções modernas, escaláveis e bem estruturadas, sempre buscando aplicar boas práticas como clean code, padrões de projeto e desenvolvimento orientado a performance.
+
+Estou constantemente aprendendo e explorando novas ferramentas, frameworks e tecnologias que possam elevar o nível dos projetos que desenvolvo.
+
+No dia a dia, adoro desafios — principalmente aqueles que exigem lógica, criatividade e inovação
 </p>
 
 ---
