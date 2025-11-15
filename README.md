@@ -66,11 +66,9 @@
 ## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=Ferreira502&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&title_color=4B0082&text_color=ffffff&icon_color=4B0082&border_color=4B0082" />
-  
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira502&layout=compact&langs_count=8&theme=dracula&title_color=4B0082&text_color=ffffff&icon_color=4B0082&border_color=4B0082" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferreira502&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferreira502&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ferreira502&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
