@@ -12,7 +12,7 @@
 <p>
   Olá! Meu nome é <strong>Gabriel Ferreira</strong> e sou <strong>Engenheiro de Software</strong> com foco no desenvolvimento de soluções eficientes, seguras e escaláveis.
   <br><br>
-  Atualmente curso <strong>Ciência da Computação na PUC Minas</strong>, onde aprofundo meus estudos em algoritmos, arquitetura de software e engenharia de sistemas.
+  Atualmente curso <strong>Ciência da Computação na PUC Minas</strong> e <strong>Ciência dos Dados na UFMS</strong>, onde aprofundo meus estudos em algoritmos, arquitetura de software e engenharia de sistemas.
   <br><br>
   Tenho interesse especial em construir aplicações modernas e de alta qualidade, aplicando princípios como <strong>clean code</strong>, <strong>boas práticas de engenharia</strong> e <strong>padrões de projeto</strong>.
   <br><br>
