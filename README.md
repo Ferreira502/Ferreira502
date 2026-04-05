@@ -64,6 +64,13 @@
 ## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=ferreira502&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<br>
+
+<div align="center">
   <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Ferreira502&theme=dracula&bg_color=000000&color=ffffff&line=9b4dff&point=9b4dff&area=true&hide_border=false" />
 </div>
 
