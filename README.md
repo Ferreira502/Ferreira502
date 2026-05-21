@@ -8,8 +8,8 @@ Software Engineer · Computer Science @ PUC Minas · Data Science @ UFMS
  
 ---
 <!-- ===================== TECH STACK ===================== -->
-## <h2 align="center">🧠 Tech Stack</h2>
-### <h3 align="center">🔹 Programming Languages</h3>
+<h2 align="center">🧠 Tech Stack</h2>
+<h3 align="center">🔹 Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -17,7 +17,7 @@ Software Engineer · Computer Science @ PUC Minas · Data Science @ UFMS
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-### <h3 align="center">🌐 Web Development</h3>
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,14 +27,14 @@ Software Engineer · Computer Science @ PUC Minas · Data Science @ UFMS
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-### <h3 align="center">🖥️ Operating Systems</h3>
+<h3 align="center">🖥️ Operating Systems</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 ---
 <!-- ===================== CONTACT ===================== -->
-## <h2 align="center">📞 Contact Me</h2>
+<h2 align="center">📞 Contact Me</h2>
 <p align="center">
   <a href="https://wa.me/31972471784?text=Oi%3F%20Tudo%20Bem!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
