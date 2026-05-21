@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d6/3e/b4/d63eb49f6baa655bf1e7aa54a1761db5.gif" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=4B0082&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel;Sou+engenheiro+de+software" />
 </h1>
@@ -9,15 +5,10 @@
 
 ---
 
-<p>
-  Olá! Meu nome é <strong>Gabriel Ferreira</strong> e sou <strong>Engenheiro de Software</strong> com foco no desenvolvimento de soluções eficientes, seguras e escaláveis.
-  <br><br>
-  Atualmente curso <strong>Ciência da Computação na PUC Minas</strong> e <strong>Ciência dos Dados na UFMS</strong>, onde aprofundo meus estudos em algoritmos, arquitetura de software e engenharia de sistemas.
-  <br><br>
-  Tenho interesse especial em construir aplicações modernas e de alta qualidade, aplicando princípios como <strong>clean code</strong>, <strong>boas práticas de engenharia</strong> e <strong>padrões de projeto</strong>.
-  <br><br>
-  Busco evolução contínua, explorando novas tecnologias, frameworks e metodologias que contribuam para o aperfeiçoamento dos projetos que desenvolvo.
-</p>
+# Gabriel Ferreira
+ 
+Software Engineer · Computer Science @ PUC Minas · Data Science @ UFMS
+ 
 
 
 ---
