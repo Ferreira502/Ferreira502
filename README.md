@@ -7,6 +7,8 @@
 # Gabriel Ferreira
  
 Software Engineer · Computer Science @ PUC Minas · Data Science @ UFMS
+
+My Portfolio: https://portfoliogabrielferreira.vercel.app/
  
 ---
 
